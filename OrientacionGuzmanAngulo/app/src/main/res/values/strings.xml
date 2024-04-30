@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Orientacion Guzman Angulo</string>
+    <string name="vertical_text">El teléfono está en posición vertical</string>
+    <string name="vertical_text2">Fragmento 2: Vertical</string>
+    <string name="vertical_text3">Fragmento 3: Vertical</string>
+    <string name="horizontal_text">El teléfono está en posición horizontal</string>
+    <string name="horizontal_text2">Fragmento 2: Horizontal</string>
+    <string name="horizontal_text3">Fragmento 3: Horizontal</string>
+    </resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="AntiqueWhite">#FAEBD7</color>
+    <color name="LightGray">#D3D3D3</color>
+    <color name="LightCoral">#F08080</color>
+    <color name="Wheat">#F5DEB3</color>
+    <color name="ChocolateShadow">#D2691E</color>
+    <color name="Salmon">#FA8072</color>
+    <color name="LightSkyBlue">#87CEFA</color>
+    <color name="Aureolina">#FADF7A</color>
+    <color name="OldYellow">#EEDC82</color>
+</resources>

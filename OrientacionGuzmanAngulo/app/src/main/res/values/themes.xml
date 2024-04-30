@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="Theme.OrientacionGuzmanAngulo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/LightSkyBlue</item>
+        <item name="colorPrimaryDark">@color/OldYellow</item>
+        <item name="colorAccent">@color/Aureolina</item>
+    </style>
+</resources>
